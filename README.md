@@ -74,7 +74,3 @@ course-exam-study-guide/
 └── agents/
     └── openai.yaml
 ```
-
-## 说明
-
-`SKILL.md` 顶部的 `name` 和 `description` 是 Codex 用来识别和触发 skill 的元数据；它们在某些 Markdown 预览器里会显示出来，这是正常的。
