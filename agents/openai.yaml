@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程考试复习指南"
+  short_description: "把课程资料和压缩包整理成可直接备考的复习指南"
+  default_prompt: "使用 $course-exam-study-guide 把我的课件、复习题、答案或压缩包整理成逐题考试复习指南。"
